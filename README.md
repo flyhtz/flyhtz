@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Flyhtz</h1>
-<h3 align="center">Someone who likes coding Discord virusses</h3>
+<h3 align="center">Someone who likes coding Discord stuff</h3>
 
 
 - 🔭 I’m currently working on [Flyhtzer](https://github.com/flyhtz/Flyhtzer)
