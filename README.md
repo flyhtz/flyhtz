@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [Flyhtzer](https://github.com/flyhtz/Flyhtzer)
 
-- ⚡ Fun fact **Discord security is poopoo**
+- ⚡ Fun fact **Discord security is poopoo** (except they actually listened to me and my team's explanation and they have recently updated their software. #love them but soon there will be an update on why I still think its poo poo.)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
