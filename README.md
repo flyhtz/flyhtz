@@ -1,10 +1,8 @@
 <h1 align="center">Hi there, I'm Flyhtz</h1>
-<h3 align="center">Someone who likes coding Discord stuff</h3>
+<h3 align="center">Someone who likes coding stuff</h3>
 
 
-- 🔭 I’m currently working on [Flyhtzer](https://github.com/flyhtz/Flyhtzer)
-
-- ⚡ Fun fact **Discord security is poopoo** (except they actually listened to me and my team's explanation and they have recently updated their software. #love them but soon there will be an update on why I still think its poo poo.)
+- 🔭 I’m currently working on [my website](https://flyhtz.nl)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
