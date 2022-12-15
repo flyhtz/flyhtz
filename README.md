@@ -3,6 +3,7 @@
 
 
 - 🔭 I’m currently working on [my website](https://flyhtz.nl)
+- I privated like every single one of my repositories since either they shouldn't be public or its not working anymore
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
